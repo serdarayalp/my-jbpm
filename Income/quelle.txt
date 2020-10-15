@@ -1,0 +1,5 @@
+https://www.drools.org/download/download.html
+*********************************************
+https://www.tutorialspoint.com/jbpm5/index.htm
+https://www.javatpoint.com/jbpm-tutorial
+http://www.mastertheboss.com/jboss-jbpm/drools
